@@ -123,6 +123,14 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 
 也可以用 ``` 包裹一段代码,并指定一种语言(也可以不指定)  
 
+```c
+#include <stdio.h>
+    int main()
+    {
+        printf("markdown语法练习\n");
+        return 0;
+    }
+```
 ---  
 
 ___Markdown 高级技巧___  
