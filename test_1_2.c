@@ -1,4 +1,4 @@
-/* 分支与循环章节练习 */
+/* 分支与循环 */
 
 //高级hello_world
 /*#include <stdio.h>
